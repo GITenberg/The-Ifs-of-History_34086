@@ -1,0 +1,29 @@
+_repo: The-Ifs-of-History_34086
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chamberlin, Joseph Edgar
+    aliases:
+    - Chamberlain, Joseph Edgar
+    - Chamberlin, J. E. (Joseph Edgar)
+    birthdate: 1851
+    deathdate: 1935
+    gutenberg_agent_id: '36754'
+    url: http://www.gutenberg.org/2009/agents/36754
+description: ''
+gutenberg_issued: '2010-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'History'
+title: The Ifs of History
+url: http://www.gutenberg.org/ebooks/34086
