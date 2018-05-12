@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '36754'
     url: http://www.gutenberg.org/2009/agents/36754
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34086#The-Ifs-of-History
 gutenberg_issued: '2010-10-16'
 gutenberg_type: Text
 identifiers:
